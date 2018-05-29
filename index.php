@@ -1,13 +1,14 @@
 <?php
 //$url = $_SERVER['APP_URL'].$_SERVER['REQUEST_URI'];
-$url = $_SERVER['REQUEST_URI'];
+//$url = $_SERVER['REQUEST_URI'];
 //echo $url;
+//$url = "http://" . $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI']; 
 ?>
 <!DOCTYPE html>
 <html lang="en" ng-app = "myModule">
 
 <head>
-<base href= "/" >
+<base href= "" >
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
