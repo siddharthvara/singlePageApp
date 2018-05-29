@@ -18,13 +18,13 @@
     <title>Angular Single page App</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="./vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-    <link href="css/simple-sidebar.css" rel="stylesheet">
+    <link href="./css/simple-sidebar.css" rel="stylesheet">
 
-    <script src="Script/angular.min.js"></script>
-    <script src="Script/angular-route.min.js"></script>
+    <script src="./Script/angular.min.js"></script>
+    <script src="./Script/angular-route.min.js"></script>
     
     
 
